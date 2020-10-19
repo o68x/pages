@@ -8,9 +8,4 @@
 
 <h1>Hey! I don't have projects, I don't like them.</h1>
 
-<p>
-  This is my blog. The blog is powered by Miner framework, which is based on Sapper, which is a full-featured web-app
-  framework based on the Svelte UI framework.
-</p>
-
-<p>I write about software engineering, coding, and the bay area.</p>
+<p>But I write about stuff, take pictures sometimes, and paint too.</p>
