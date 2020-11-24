@@ -77,7 +77,7 @@
 </svelte:head>
 
 <h1>{blogConfig.site_name}</h1>
-
+<p>Look at me!</p>
 {#each posts as post}
   <div class="post">
     <div class="date">{post.date}</div>
